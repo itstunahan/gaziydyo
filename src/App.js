@@ -380,6 +380,7 @@ function App() {
                     autoComplete="off"
                     min="0"
                     max="100"
+                    helpText="Unutma! Eğer Bahar Dönemi ortalaman 74.5 ve yukarısı ise finale girmene gerek yok."
                   />
                 </FormLayout.Group>
               </FormLayout>
@@ -429,6 +430,14 @@ function App() {
             <HorizontalStack align="center">
               <Text variant="headingSm" as="h6">
                 Gazi YDYO ❤️ Tunahan AYDIN 💌 t.unahana06@gmail.com
+              </Text>
+            </HorizontalStack>
+          </LegacyCard.Section>
+          <LegacyCard.Section>
+            <HorizontalStack align="center">
+              <Text variant="headingSm" as="h6">
+                Bu web sitesinde belirtilen değerlerin herhangi bir yasal
+                yükümlülüğü olmadığını beyan ederim.
               </Text>
             </HorizontalStack>
           </LegacyCard.Section>
