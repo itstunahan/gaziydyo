@@ -89,7 +89,7 @@ function App() {
 
     if (donem2Total >= 74.5) {
       gecmeDurumu = true;
-    } else if (finalOrt >= 74.5) {
+    } else if (finalOrt >= 60) {
       gecmeDurumu = true;
     }
 
